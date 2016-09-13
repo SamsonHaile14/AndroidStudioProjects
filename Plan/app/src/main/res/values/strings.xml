@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Plan</string>
+    <string name="pl">+</string>
+    <string name="add_activity">Add Activity</string>
+    <string name="EnterHint">Tap to Enter Activity</string>
+    <string name="min">-</string>
+    <string name="remove_activity">Remove Activity</string>
+    <string name="onCreate">onCreate</string>
+    <string name="add_a_plan">Add a Plan</string>
+    <string name="delete_a_plan">Delete a Plan</string>
+    <string name="manage_plans">Manage Plans</string>
+    <string name="Give_plan_name">Give your plan a name</string>
+    <string name="Create_Plan">Create Plan</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Enter_file_appropriate">Enter File Appropriate name</string>
+    <string name="accept">Accept</string>
+</resources>
